@@ -1,5 +1,3 @@
-import { async } from "q";
-import { useEffect, useState } from "react";
 import { useQuery } from "react-query";
 import { Link } from "react-router-dom";
 import styled from "styled-components";
